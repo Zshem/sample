@@ -1,4 +1,3 @@
-sample
-======
+# Sample app with working settings 
 
-repo with working settings!
+At least on Xp :|
